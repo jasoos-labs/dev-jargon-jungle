@@ -6,6 +6,8 @@ Dev Jargon Jungle is a free, local-first PWA that helps early-career software de
 
 This is not a programming course or interview cram app. The goal is to make workplace conversations less mysterious through games, lookup, and steady practice.
 
+https://jasoos-labs.github.io/dev-jargon-jungle/
+
 ## Version 1.0.0
 
 - 32 curated first-90-days vocabulary concepts, with aliases kept on the same record.
